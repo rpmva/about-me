@@ -1,0 +1,19 @@
+#profile{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+#port{
+  text-align: center
+}
+#pic1,#pic2,#pic3,#pic4,#pic5,#pic6,#pic7,#pic8{
+  height:200px;
+  width:200px
+}
+#sm{
+  text-align: center;
+}
+#fb, #sc, #tw, #in{
+  height:50px;
+  width:50px;
+}
